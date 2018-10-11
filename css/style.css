@@ -1,0 +1,98 @@
+body{
+	background-color: black;
+	font-family: helvetica;
+	color: white;
+}
+
+/*section{
+	min-height: 600px;
+}
+*/
+
+
+.isiabout{
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.tahun p{
+	margin-left: 30px;
+}
+
+.experience p {
+	margin: 0;
+}
+
+.slider{
+	line-height: 0.5;
+	margin-left: 1%;
+}
+
+footer{
+	padding-bottom: 5%;
+	padding-top: 25%;
+}
+
+h1{
+
+	font-size: 100pt;
+	font-weight: bold;
+	line-height: 0.7;
+}
+
+.titresume{
+	margin-left: 0px;
+}
+
+.titresume h1 {
+	font-size: 150pt;
+}
+
+.resume{
+	margin-left: 15px;
+	margin-top: 30px;
+	float: left;
+}
+
+.resume h1{
+	font-size: 12pt;
+}
+
+.body2{
+	background-color: red;
+	height: 10px;
+	min-height: 100px;
+}
+
+.header{
+	line-height: 0.5;
+	padding-bottom: 5%;
+	margin-left: 1%;
+	margin-top: 25px;
+	font-size: 10pt;
+}
+
+
+a {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a.instagram:hover {
+    color: #409388;
+    background-color: transparent;
+    text-decoration: line-through;
+}
+
+a.twitter:hover {
+    color: #47A0EB;
+    background-color: transparent;
+    text-decoration: line-through;
+}
+
+a.behance:hover {
+    color: #001EF5;
+    background-color: transparent;
+    text-decoration: line-through;
+}
